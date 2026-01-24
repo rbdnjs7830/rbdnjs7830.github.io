@@ -46,7 +46,7 @@ I am master student at KAIST (September 2025 ~), advised by Professor [Chang D. 
 
 [**J7**] [**Spectral Masked Diffusion Transformer for Synthetic Aperture Radar to Optical Image Translation**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12475799)
 
-Sunjae Yoon, Ji Woo Hong, Gwanhyeong Koo, <span style="color:royalblue">**Kyuwon Kim** </span>, JongSik Ahn, Tae-Young Lee, Chang D. Yoo.
+Sunjae Yoon, Ji Woo Hong, Gwanhyeong Koo, <span style="color:royalblue">**Kyuwon Kim**</span>, JongSik Ahn, Tae-Young Lee, Chang D. Yoo.
 
 Journal of The Institute of Electronics and Information Engineers, 2025
 </div>

@@ -29,7 +29,7 @@ I am master student at KAIST (September 2025 ~), advised by Professor [Chang D. 
 
 # 🏫 Education
 
-- Sep.2025 - : __M.S.__ Electrical Engineering (KAIST)
+- Sep.2025 - present: __M.S.__ Electrical Engineering (KAIST)
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 

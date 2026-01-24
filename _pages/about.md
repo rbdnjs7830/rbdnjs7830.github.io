@@ -27,7 +27,7 @@ I am master student at KAIST (September 2025 ~), advised by Professor [Chang D. 
 - Diffusion model
 
 
-# 🏫 Education
+# 🏫 Educations
 
 - Sep.2025 - present: __M.S.__ Electrical Engineering (KAIST)
 

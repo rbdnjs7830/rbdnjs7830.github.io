@@ -40,11 +40,8 @@ I am master student at KAIST (September 2025 ~), advised by Professor [Chang D. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 ## 2025
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/ieie_journal_2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/J1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J7**] [**Spectral Masked Diffusion Transformer for Synthetic Aperture Radar to Optical Image Translation**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12475799)

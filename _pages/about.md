@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am master student at KAIST (September 2025 ~), advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am a master's student at KAIST (September 2025 ~), advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
 
 # 📌 Research Interests

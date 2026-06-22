@@ -18,13 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am a master's student at KAIST (September 2025 ~), advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+
+I am a master's student in Electrical Engineering at [KAIST](https://www.kaist.ac.kr/en/) (September 2025 ~), advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php) in the [U-AIM Lab](http://sanctusfactory.com/family.php).
+
+My research focuses on **2D–3D character generation and animation**, with an emphasis on bridging the gap between cartoon-style 2D illustrations and animatable 3D representations. I am particularly interested in building datasets and learning-based systems that enable high-quality stylization and novel-view synthesis for drawing-based 3D characters.
 
 
 # 📌 Research Interests
+- 3D Character Generation & Animation
+- Novel-View Synthesis & Stylization
+- Generative AI (Diffusion Models, GANs)
 - Computer Vision
-- Generative AI
-- Diffusion model
+
+
+# 🔥 News
+
+- _2026.06_ &nbsp; Released **[SPECSIA](https://rbdnjs7830.github.io/SPECSIA/)**: a large-scale paired dataset (SPECSIA-15K) and DraViE model for projection-artifact correction in drawing-based 3D animation.
+- _2025.09_ &nbsp; Started M.S. in Electrical Engineering at KAIST, advised by Prof. Chang D. Yoo.
+- _2024.08_ &nbsp; Completed internship at [Innerverz](https://innerverz.io/).
 
 
 # 🏫 Educations
@@ -33,14 +44,28 @@ I am a master's student at KAIST (September 2025 ~), advised by Professor [Chang
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-- Mar.2018 - Aug.2025: __B.S.__ Electrical Enigneering (KAIST)
+- Mar.2018 - Aug.2025: __B.S.__ Electrical Engineering (KAIST)
 
 &emsp;&emsp;&emsp;Advisor: Prof. Yongdae Kim
 
 
 # 📝 Publications 
 
+## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Preprint</div><img src='images/C1.png' alt="SPECSIA" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C1**] [**SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation**](https://rbdnjs7830.github.io/SPECSIA/)
+
+<span style="color:royalblue">**Kyuwon Kim**</span>, Sunjae Yoon, Chang D. Yoo.
+
+\[[Project Page](https://rbdnjs7830.github.io/SPECSIA/)\] \[[Code](https://github.com/rbdnjs7830/SPECSIA_release)\] \[[Dataset](https://huggingface.co/datasets/rbdnjs7830/SPECSIA-15K)\]
+</div>
+</div>
+
 ## 2025
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/J1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 

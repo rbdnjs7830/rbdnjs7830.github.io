@@ -30,9 +30,7 @@ My research interests lie in **Computer Vision** and **Generative AI**, with a f
 
 # 🔥 News
 
-- _2026.06_ &nbsp; Released **[SPECSIA](https://rbdnjs7830.github.io/SPECSIA/)**: a large-scale paired dataset (SPECSIA-15K) and DraViE model for projection-artifact correction in drawing-based 3D animation.
-- _2025.09_ &nbsp; Started M.S. in Electrical Engineering at KAIST, advised by Prof. Chang D. Yoo.
-- _2024.08_ &nbsp; Completed internship at [Innerverz](https://innerverz.io/).
+- _2026.06_ &nbsp; 🎉 One paper accepted to ECCV 2026.
 
 
 # 🏫 Educations

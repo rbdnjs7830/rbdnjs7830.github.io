@@ -55,6 +55,8 @@ My research interests lie in **Computer Vision** and **Generative AI**, with a f
 
 <span style="color:royalblue">**Kyuwon Kim**</span>, Sunjae Yoon, Chang D. Yoo.
 
+European Conference on Computer Vision (ECCV), 2026
+
 \[[Project Page](https://rbdnjs7830.github.io/SPECSIA/)\] \[[Code](https://github.com/rbdnjs7830/SPECSIA_release)\] \[[Dataset](https://huggingface.co/datasets/rbdnjs7830/SPECSIA-15K)\]
 </div>
 </div>

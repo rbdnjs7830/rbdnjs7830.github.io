@@ -57,7 +57,7 @@ My research interests lie in **Computer Vision** and **Generative AI**, with a f
 
 European Conference on Computer Vision (ECCV), 2026
 
-\[[Project Page](https://rbdnjs7830.github.io/SPECSIA/)\] \[[Code](https://github.com/rbdnjs7830/SPECSIA_release)\] \[[Dataset](https://huggingface.co/datasets/rbdnjs7830/SPECSIA-15K)\]
+\[[Project Page](https://rbdnjs7830.github.io/SPECSIA/)\] \[[Code](https://github.com/rbdnjs7830/SPECSIA_release)\] \[[Dataset](https://huggingface.co/datasets/Kyu0528/SPECSIA-15K)\]
 </div>
 </div>
 

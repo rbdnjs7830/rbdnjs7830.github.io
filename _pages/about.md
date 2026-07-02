@@ -51,7 +51,7 @@ My research interests lie in **Computer Vision** and **Generative AI**, with a f
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2026</div><img src='images/C1.png' alt="SPECSIA" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C1**] [**SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation**](https://rbdnjs7830.github.io/SPECSIA/)
+[**C1**] [**SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation**](https://arxiv.org/abs/2607.00525)
 
 <span style="color:royalblue">**Kyuwon Kim**</span>, Sunjae Yoon, Chang D. Yoo.
 

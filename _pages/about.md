@@ -61,6 +61,19 @@ European Conference on Computer Vision (ECCV), 2026
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">arXiv Preprint</div><img src='images/P1.jpg' alt="Locomotion-Grounded Humanoid Soccer" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**P1**] [**Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library**](https://arxiv.org/abs/2609.38852)
+
+Abu Hanif Muhammad Syarubany, Jaehyun Jang, Hwanhee Kim, <span style="color:royalblue">**Kyuwon Kim**</span>, Seungyeon Ryu, Chang D. Yoo.
+
+arXiv preprint, 2026
+
+\[[arXiv](https://arxiv.org/abs/2609.38852)\]
+</div>
+</div>
+
 ## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/J1.png' alt="sym" width="100%"></div>
